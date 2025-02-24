@@ -1,3 +1,3 @@
 function greet() {
-  console.log("AAA");
+  console.log("BBB");
 }
